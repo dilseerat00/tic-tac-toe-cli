@@ -22,34 +22,36 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 
 ## Example Run
 Computer's turn: X
+**
 1 | 2 | X
 ---------
 4 | 5 | 6
 ---------
 7 | 8 | 9
-
+**
 Your turn (O). Enter a number (1-9): 5
-
+**
 1 | 2 | X
 ---------
 4 | O | 6
 ---------
 7 | 8 | 9
-
+**
 Computer's turn: X
+**
 1 | 2 | X
 ---------
 4 | O | X
 ---------
 7 | 8 | 9
-
+**
 Your turn (O). Enter a number (1-9): 9
-
+**
 1 | 2 | X
 ---------
 4 | O | X
 ---------
 7 | 8 | O
-
+**
 
 
