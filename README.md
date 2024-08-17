@@ -10,6 +10,7 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 - **Winning Conditions:** The game checks for a winner after each move, considering all possible win conditions (rows, columns, diagonals).
 - **Draw Detection:** The game detects and announces a draw if the grid is completely filled without a winner.
 - **Replay Option:** After the game ends, the user can choose to play again or exit.
+- **User-Friendly:** The game is designed to be intuitive and easy to play, making it accessible for all ages.
 
 ## How to Play
 
@@ -20,38 +21,6 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 5. **Result Announcement:** The game will announce the winner or if the game ends in a draw.
 6. **Play Again:** After the game ends, the user can choose to start a new game or exit.
 
-## Example Run
-Computer's turn: X
-**
-1 | 2 | X
----------
-4 | 5 | 6
----------
-7 | 8 | 9
-**
-Your turn (O). Enter a number (1-9): 5
-**
-1 | 2 | X
----------
-4 | O | 6
----------
-7 | 8 | 9
-**
-Computer's turn: X
-**
-1 | 2 | X
----------
-4 | O | X
----------
-7 | 8 | 9
-**
-Your turn (O). Enter a number (1-9): 9
-**
-1 | 2 | X
----------
-4 | O | X
----------
-7 | 8 | O
-**
+
 
 
